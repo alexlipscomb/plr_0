@@ -1,0 +1,17 @@
+0, global;
+1, ch1_transport;
+2, ch2_transport;
+3, ch3_transport;
+4, ch4_transport;
+5, ch5_transport;
+6, ch6_transport;
+7, ch7_transport;
+8, ch8_transport;
+9, ch9_transport;
+10, ch10_transport;
+11, ch11_transport;
+12, ch12_transport;
+13, ch13_transport;
+14, ch14_transport;
+15, ch15_transport;
+16, ch16_transport;

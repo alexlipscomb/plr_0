@@ -1,0 +1,3 @@
+;max overdrive 1
+;dsp takeover 1
+;max setmixerparallel 1
