@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 519.0, 274.0, 168.0, 81.0 ],
+		"rect" : [ 519.0, 274.0, 169.0, 80.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -198,8 +198,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 519.015712082386017, 234.020605444908142, 40.0, 22.0 ],
-					"text" : "pak i i"
+					"patching_rect" : [ 519.015712082386017, 234.020605444908142, 48.0, 22.0 ],
+					"text" : "pak 4 4"
 				}
 
 			}
