@@ -2,8 +2,8 @@
 	"name" : "plr_0",
 	"version" : 1,
 	"creationdate" : 3754497414,
-	"modificationdate" : 3755023028,
-	"viewrect" : [ 175.0, 268.0, 300.0, 500.0 ],
+	"modificationdate" : 3755186562,
+	"viewrect" : [ 358.0, 368.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -14,6 +14,11 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"channel_slot.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 ,
 			"poly_init.maxpat" : 			{
@@ -43,6 +48,16 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"slot_routings.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"slot_router.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
@@ -74,6 +89,15 @@
 			"bootpath" : "~/Documents/Max 8/Projects/plr_0/patchers/units",
 			"projectrelativepath" : "./patchers/units",
 			"label" : "units",
+			"recursive" : 1,
+			"enabled" : 1,
+			"includeincollective" : 0
+		}
+,
+		"1" : 		{
+			"bootpath" : "~/Documents/Max 8/Projects/plr_0/patchers/channels",
+			"projectrelativepath" : "./patchers/channels",
+			"label" : "channels",
 			"recursive" : 1,
 			"enabled" : 1,
 			"includeincollective" : 0
